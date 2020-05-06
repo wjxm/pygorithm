@@ -2,7 +2,7 @@
 Pygorithm
 =========
 
-
+一个帮助学习主要算法的库，可以通过理解这些算法的实现，提高自己的算法水平。冒泡排序示例：
 .. image:: https://img.shields.io/packagist/l/doctrine/orm.svg
    :target: https://github.com/OmkarPathak/pygorithm/blob/master/LICENSE
    :alt: Packagist
